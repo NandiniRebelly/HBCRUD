@@ -1,8 +1,0 @@
-E:\HibernateBookCRUD\src\main\java\com\bookapp\dao\BookDAO.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\model\Book.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\servlet\AddBookServlet.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\servlet\DeleteBookServlet.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\servlet\EditBookServlet.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\servlet\UpdateBookServlet.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\servlet\ViewBookServlet.java
-E:\HibernateBookCRUD\src\main\java\com\bookapp\util\HibernateUtil.java

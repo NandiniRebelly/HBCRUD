@@ -1,8 +1,0 @@
-com\bookapp\servlet\EditBookServlet.class
-com\bookapp\servlet\UpdateBookServlet.class
-com\bookapp\util\HibernateUtil.class
-com\bookapp\dao\BookDAO.class
-com\bookapp\model\Book.class
-com\bookapp\servlet\AddBookServlet.class
-com\bookapp\servlet\DeleteBookServlet.class
-com\bookapp\servlet\ViewBookServlet.class
